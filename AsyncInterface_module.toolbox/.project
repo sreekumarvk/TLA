@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>AsyncInterface</name>
+	<name>AsyncInterface_module</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -21,9 +21,9 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>AsyncInterface.tla</name>
+			<name>AsyncInterface_module.tla</name>
 			<type>1</type>
-			<location>C:/Users/svkodaka/Documents/Sreekumar/Projects/TLA/AsyncInterface.tla</location>
+			<location>C:/Users/svkodaka/Documents/Sreekumar/Projects/TLA/AsyncInterface_module.tla</location>
 		</link>
 	</linkedResources>
 </projectDescription>
